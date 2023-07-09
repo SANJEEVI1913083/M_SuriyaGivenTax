@@ -1,0 +1,261 @@
+
+.header >div{
+    padding: 10px 10px 20px 10px;
+    text-align: center; 
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #f0f8ff;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+.headerlist{
+    background-color: #1d2b1c;
+}
+
+.headerlist >div{
+    padding-top: 15px;
+    margin-right: 50px;
+    float: right;
+    font-size: small;
+}
+.headerlist a{
+    text-decoration: none;
+    color: #f0f8ff;
+}
+.fresh{
+    padding-top: 5px !important;
+    margin-left:60px;
+    font-weight: bolder !important;
+    font-size: 30px !important;
+    float: left !important;
+}
+.data{
+    background-color:teal;
+    padding: 0 50px 0 50px;
+    text-align: center;
+    color: white;
+    border-bottom-style:ridge ; 
+    border-color: rgb(246, 5, 5);
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.dataheading{
+    text-transform: uppercase;
+    font-size:90px;
+    font-weight: bolder;
+}
+.data>p{
+    padding: 0 60px 0 60px;
+    font-size: larger;
+}
+
+.click{
+    background-color:whitesmoke;
+    border-radius: 4px;
+}
+.purcahse{
+    background-color: #0d0a0a;
+    color: #f0f8ff;
+    border-radius: 4px;
+}
+
+.data2{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 0 90px 0 90px;
+}
+.question{
+    text-transform: uppercase;
+    padding-bottom: 50px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.commonicon{
+    padding: 0 12px 0 12px;
+}
+.icons > div{
+    float: left;
+    margin-left: 60px;
+    margin-right: 180px;
+}
+.iconsHeading>div{
+    float: left;
+}
+.starHead{
+    margin-left: 31px;
+    margin-right: 170px;
+}
+.broadcastHead{
+    margin-right: 188px;
+}
+.talkalotHead{
+    margin-right: 222px;
+}
+.iconsdata{
+    float: left;
+}
+.iconsdata>div{
+    float: left;
+}   
+.iconsdata>div{
+    padding: 4px;
+    width: 230px;
+    height: 200px;
+    text-align: center;
+}
+.starPara{
+    margin-right: 70px;
+}
+.broadcastPara{
+    margin-right: 92px;
+}
+.talkalotPara{
+    margin-right: 102px;
+}
+
+.starPara>a{
+    color: teal;
+}
+.broadcastPara>a{
+    color: teal;
+}
+.talkalotPara>a{
+    color: teal;
+}
+.growPara>a{
+    color: teal;
+}
+
+.latestproject{
+    clear: both;
+    text-transform: uppercase;
+    padding-bottom: 50px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #0d0a0a;
+}
+
+.banners>img{
+    padding: 20px;
+    width: 350px;
+    height: 250px;
+    float: left;
+    margin-bottom: 30px;
+}
+
+#hr{
+    clear: both;
+}
+#finalheading{
+    color: #1d2b1c;
+    text-align: center;
+    padding: 30px;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+
+.footer{
+    width:1323px;
+    height:200px;
+    padding:10px 90px 0 90px;
+    background-color:rgb(50, 53, 50);
+    color: gray;
+}
+ 
+
+.footerlinkicon{
+    float: left;
+    width: 600px;
+    /* height: 200px; */
+}
+
+.footerlinkicon>h3{
+    font-weight: bolder;
+}
+
+.footerlinkicon>img{
+    float: left;
+    padding: 10px 10px 0 10px;
+    margin-top: 5px;
+}
+.footerlinkiconatagleft>a{
+    color: gray;
+    text-decoration: none;
+}
+.footerlinkiconatagleft{
+    float: left;
+    font-size: 12px;
+    padding: 4px;
+    width: 250px;
+    height: 50px;
+}
+
+.footerlinkiconatagright{
+    float: left;
+    font-size:12px;
+    padding: 4px;
+    width: 250px;
+    height: 50px;
+}
+
+.footerlinkiconatagright>a{
+    width: 250px;
+    height: 25px;
+    color: gray;        
+    text-decoration: none;
+}
+
+.footerconnecticon{
+    float: left; 
+    width: 370px;
+    height: 200px;
+}
+
+.footerconnecticon>img{
+    float: left;
+    padding: 10px 10px 0 10px;
+    margin-top: 5px;
+}
+
+.footerconnecttext>h3{
+    padding: 0 30px 20px 20px;
+}
+
+.footerconnecticonicon{
+    font-size: small;
+}
+
+.footersubscribe{
+    float: left;
+    margin-left: 20px; 
+    width: 300px;
+    height: 200px;
+    
+}
+.footersubscribe>img{
+    float: left;
+    padding: 10px 10px 0 10px;
+    margin-top: 5px;
+}
+.footersubscribe>h3{
+    padding: 0 30px 0 20px;
+}
+.footersubscribe > p{
+    padding-left: 10px;
+    font-size: small;
+}
+
+.finalfooter{
+    clear: both;
+    padding: 10px 0px 10px 10px;
+    color: gray;
+    background-color:#1d2b1c ;
+}
+
+#readtheblog{
+    padding-left:82px;
+}
+.finalfooter>a{
+    padding-left: 30px;
+    margin-right: 30px;
+    color: gray;
+    text-decoration: none;
+}
